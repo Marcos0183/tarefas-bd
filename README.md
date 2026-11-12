@@ -10,7 +10,7 @@ Abaixo estão os principais arquivos utilizados na configuração e inicializaç
 | Arquivo | Descrição |
 |---|---|
 | [docker-compose.yml](./docker-compose.yml) | Define os serviços e contêineres utilizados no ambiente Docker, incluindo MariaDB e CloudBeaver. |
-| [.env.example](./.env.example) | Modelo das variáveis de ambiente necessárias para configurar os serviços. |
+| [.env.example]([./.env.example](https://github.com/Marcos0183/tarefas-bd/blob/main/tarefa-03/.env.example)) | Modelo das variáveis de ambiente necessárias para configurar os serviços. |
 | [.gitignore](./.gitignore) | Define os arquivos e diretórios que devem ser ignorados pelo Git. |
 
 ## Scripts SQL
